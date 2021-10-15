@@ -9,7 +9,7 @@ Puntos tomados en cuenta:<br>
 </ol> 
 Las ventajas que ofrece el patron de diseño :<br>
 <ol>
-  <li>Utiliza el Método Fábrica cuando no conozcas de antemano las dependencias y los tipos exactos de los objetos con los que deba funcionar tu código.</li>
+  <li>Utiliza el Factory method cuando no conozcas de antemano las dependencias y los tipos exactos de los objetos con los que deba funcionar tu código.</li>
   <li>Factory method puede extender sus componentes internos.</li>
   <li>Utiliza el Factory Method cuando quieras ahorrar recursos del sistema mediante la reutilización de objetos existentes en lugar de reconstruirlos cada vez.</li>
 </ol>
