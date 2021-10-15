@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PracticeDesingPatternCreational.Class.ConcreteSuperMarketStorage">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Class\ConcreteSuperMarketStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeDesingPatternCreational.Class.Product">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASMAQAAAAAAAAAAAJAAAQAAAAAAIACAAAAgAAAACA=</HashCode>
+      <FileName>Class\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeDesingPatternCreational.Class.SuperMarketStorage">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Class\SuperMarketStorage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeDesingPatternCreational.Class.Vegetable">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACA=</HashCode>
+      <FileName>Class\Vegetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PracticeDesingPatternCreational.Class.Freezer">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEAIAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAAAACA=</HashCode>
+      <FileName>Class\Freezer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,13 @@
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\bin\Debug\netcoreapp3.1\PracticeDesingPatternCreational.exe
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\bin\Debug\netcoreapp3.1\PracticeDesingPatternCreational.deps.json
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\bin\Debug\netcoreapp3.1\PracticeDesingPatternCreational.runtimeconfig.json
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\bin\Debug\netcoreapp3.1\PracticeDesingPatternCreational.runtimeconfig.dev.json
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\bin\Debug\netcoreapp3.1\PracticeDesingPatternCreational.dll
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\bin\Debug\netcoreapp3.1\PracticeDesingPatternCreational.pdb
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\obj\Debug\netcoreapp3.1\PracticeDesingPatternCreational.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\obj\Debug\netcoreapp3.1\PracticeDesingPatternCreational.AssemblyInfoInputs.cache
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\obj\Debug\netcoreapp3.1\PracticeDesingPatternCreational.AssemblyInfo.cs
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\obj\Debug\netcoreapp3.1\PracticeDesingPatternCreational.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\obj\Debug\netcoreapp3.1\PracticeDesingPatternCreational.dll
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\obj\Debug\netcoreapp3.1\PracticeDesingPatternCreational.pdb
+C:\Users\brian\source\repos\PracticeDesingPatternCreational\PracticeDesingPatternCreational\obj\Debug\netcoreapp3.1\PracticeDesingPatternCreational.genruntimeconfig.cache
