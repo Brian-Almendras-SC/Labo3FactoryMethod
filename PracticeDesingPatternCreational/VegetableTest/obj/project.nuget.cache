@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "To2fi5lPSUKeerY8wHgYm/WssrLCF2bUWpT58C6pg88Q6tYU9nMbBb5ikbD4Ol+DgmCghELsCHVWfIx1CXQ0QA==",
+  "dgSpecHash": "02HjP6UNN8fWvaA0qy14jdUbpXjtzPkTAoEmv9Pi3tlwmgj08BAI/tF1xtIQUb5pa22/JkN3XHxsk8iI8TWCbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\VegetableTest\\VegetableTest.csproj",
+  "projectFilePath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\VegetableTest\\VegetableTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brian\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

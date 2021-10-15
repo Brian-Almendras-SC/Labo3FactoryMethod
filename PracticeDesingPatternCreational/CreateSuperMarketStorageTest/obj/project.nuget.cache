@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Ex5plgVn4+9VHwSG203cQPcjkdJbNf1P66zINxgulHdZSyaMogYLq9rsaD5ejPW9eN0wMEic2ZPNuohfIyUhQ==",
+  "dgSpecHash": "IhmJyLvRMF8MZFI1HCDDXt5mdhQAmykWr0mjymtYMIwusN5dH1LW0vlpILQrG0kDJj4v2kEfMoHgpJHz7Gr76Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj",
+  "projectFilePath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brian\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

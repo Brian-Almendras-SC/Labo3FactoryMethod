@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5dAtNe8U9lO2XmuETSZcGaX71GTvEDH1Q8ElvJ6X5FbpKtds2I+KM1wgOj+7S3/96Hh/3939DZP6oYgWrtabQ==",
+  "dgSpecHash": "t7/xvD35JXk6SLUtDjq3YYJrj6E4gbzsMTYQiSc5QPnsBi5WzIQa49V9//qwZ9pyK6zI6hTVfCMGvjBNVWIt1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\FreezerTest\\FreezerTest.csproj",
+  "projectFilePath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\FreezerTest\\FreezerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brian\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -4594,11 +4594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\VegetableTest\\VegetableTest.csproj",
+      "projectUniqueName": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\VegetableTest\\VegetableTest.csproj",
       "projectName": "VegetableTest",
-      "projectPath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\VegetableTest\\VegetableTest.csproj",
+      "projectPath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\VegetableTest\\VegetableTest.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\VegetableTest\\obj\\",
+      "outputPath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\VegetableTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4618,8 +4618,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj": {
-              "projectPath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj"
+            "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj": {
+              "projectPath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj"
             }
           }
         }

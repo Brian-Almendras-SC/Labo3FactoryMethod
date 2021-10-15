@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r67gIAY6rv1/llb0rHwoQ8c3VNF+C+YcjaA59CfMcPv1ZYYLZrMaPybiT+3DpJ+yNIR3//CkJxZJf4/2BXoUuA==",
+  "dgSpecHash": "JUUEVDytfVeK6VsVb4m4hlPwrS68b9JUnTS/OsQwbrCINY6Rk9qHPDBrcHJ4TalKJskwOTZ3HPcNdeyJvwb5jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj",
+  "projectFilePath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

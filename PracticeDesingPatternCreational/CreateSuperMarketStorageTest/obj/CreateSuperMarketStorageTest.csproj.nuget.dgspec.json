@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj": {}
+    "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj": {
+    "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj",
+        "projectUniqueName": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj",
         "projectName": "CreateSuperMarketStorageTest",
-        "projectPath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj",
+        "projectPath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\CreateSuperMarketStorageTest.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\obj\\",
+        "outputPath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\CreateSuperMarketStorageTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj": {
-                "projectPath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj"
+              "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj": {
+                "projectPath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj": {
+    "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj",
+        "projectUniqueName": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj",
         "projectName": "PracticeDesingPatternCreational",
-        "projectPath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj",
+        "projectPath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\source\\repos\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\obj\\",
+        "outputPath": "D:\\Arquitectura de sotfware\\Tarea 4\\Labo3FactoryMethod\\PracticeDesingPatternCreational\\PracticeDesingPatternCreational\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
